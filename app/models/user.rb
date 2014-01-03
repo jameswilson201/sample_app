@@ -13,7 +13,7 @@
 #  admin              :boolean
 #
 
-# adding pointless comment in order to test the continuous integration build
+# adding pointless comment in order to test the continuous integration build. Add something.
 
 class User < ActiveRecord::Base
   attr_accessor   :password
